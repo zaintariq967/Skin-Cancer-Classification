@@ -374,8 +374,8 @@ Skin-Cancer-Classification/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/zaintariq967/Skin-Cancer-Classification.git
+cd Skin-Cancer-Classification
 ```
 
 ## 2. Create a Virtual Environment
@@ -599,5 +599,5 @@ If this project is useful for your learning or research:
 **Model Development:** Completed
 **Model Evaluation:** Completed
 **Streamlit Application:** Deployed
-**Documentation:** ✅ Available
-**Research Prototype:** ✅ Completed
+**Documentation:** Available
+**Research Prototype:** Completed
