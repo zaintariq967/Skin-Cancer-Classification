@@ -113,6 +113,7 @@ Skin-Cancer-Classification/
 │   └── test_imgs/
 ├── app.py
 ├── main.py
+├── evaluate.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
