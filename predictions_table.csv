@@ -1,0 +1,33 @@
+image_id,true_label,predicted_label,prob_benign_%,prob_malignant_%,correct
+cmatrixResnet50,Unknown,Benign,99.97,0.03,N/A
+ISIC_0024306,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024307,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024311,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024312 (1),Unknown,Benign,99.98,0.02,N/A
+ISIC_0024312,Unknown,Benign,99.98,0.02,N/A
+ISIC_0024313,Unknown,Malignant,1.05,98.95,N/A
+ISIC_0024314,Unknown,Benign,99.85,0.15,N/A
+ISIC_0024316,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024321,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024322,Unknown,Benign,99.99,0.01,N/A
+ISIC_0024323,Unknown,Malignant,31.11,68.89,N/A
+ISIC_0024324 (1),Unknown,Benign,100.0,0.0,N/A
+ISIC_0024324,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024329,Unknown,Malignant,10.31,89.69,N/A
+ISIC_0024330,Unknown,Benign,99.83,0.17,N/A
+ISIC_0024331,Unknown,Malignant,0.04,99.96,N/A
+ISIC_0024332,Unknown,Malignant,1.63,98.37,N/A
+ISIC_0024333,Unknown,Malignant,0.44,99.56,N/A
+ISIC_0024334,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024362,Unknown,Benign,100.0,0.0,N/A
+ISIC_0024363,Unknown,Benign,99.98,0.02,N/A
+ISIC_0029306,Unknown,Benign,99.87,0.13,N/A
+ISIC_0029308,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029310,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029324,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029325,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029329,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029330,Unknown,Benign,100.0,0.0,N/A
+ISIC_0029332,Unknown,Benign,99.96,0.04,N/A
+ISIC_0029335,Unknown,Benign,99.99,0.01,N/A
+rocCurveResnet50,Unknown,Benign,100.0,0.0,N/A
