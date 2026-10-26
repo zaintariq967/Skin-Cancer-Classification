@@ -596,8 +596,8 @@ If this project is useful for your learning or research:
 
 ### Project Status
 
-**Model Development:** Completed
-**Model Evaluation:** Completed
-**Streamlit Application:** Deployed
-**Documentation:** Available
-**Research Prototype:** Completed
+* **Model Development:** Completed
+* **Model Evaluation:** Completed
+* **Streamlit Application:** Deployed
+* **Documentation:** Available
+* **Research Prototype:** Completed
