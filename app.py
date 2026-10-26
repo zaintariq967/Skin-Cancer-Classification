@@ -5,6 +5,8 @@ import os
 import time
 from src.model import load_model
 from src.predict import predict_image
+import os
+os.environ["CUDA_VISIBLE_DEVICES"] = ""   # force CPU
 
 # ==================== PAGE CONFIG ====================
 st.set_page_config(

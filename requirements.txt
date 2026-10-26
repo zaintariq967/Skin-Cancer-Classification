@@ -1,7 +1,6 @@
+streamlit>=1.28
 torch
 torchvision
-streamlit
-Pillow
+pillow
 numpy
-pandas
-matplotlib
+opencv-python-headless
